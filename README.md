@@ -4,4 +4,4 @@
 
 1. Handwritten Digit Recognition
 
-Upcoming Tutorial Topics
+Upcoming Tutorial Topics.
