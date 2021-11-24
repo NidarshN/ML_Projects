@@ -3,3 +3,5 @@
 ## Projects
 
 1. Handwritten Digit Recognition
+
+Upcoming Tutorial Topics
